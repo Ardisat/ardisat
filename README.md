@@ -1,4 +1,6 @@
 # Hi, I'm Ardisat🐍 
 
-[Resume](http://ardisat.herokuapp.com/)
+### Here you can find a bunch of useful stuff, from cool app and bot templates to cool unique developments.
 
+[Resume](http://ardisat.herokuapp.com/)
+[Telegram](https://t.me/ardisat)
